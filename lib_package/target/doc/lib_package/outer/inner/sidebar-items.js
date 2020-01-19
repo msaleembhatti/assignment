@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["simplefunction","a simple function # Example  `outer::inner::simplefunction()`"]]});

@@ -5,9 +5,17 @@ mod tests {
         assert_eq!(2 + 2, 4);
     }
 }
-pub mod outer {
+///outer module: this is for testing
+/// 
+pub mod outer { 
+    ///inner module: this is inside outer
     pub mod inner {
-        pub fn simplefunction(){
+        ///a simple function
+        /// # Example 
+        /// ```
+        /// outer::inner::simplefunction()
+        /// ```
+        pub fn simplefunction(){ 
             println!("Simple function!");
         }
     }

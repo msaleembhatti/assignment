@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["outer","outer module: this is for testing"]]});
