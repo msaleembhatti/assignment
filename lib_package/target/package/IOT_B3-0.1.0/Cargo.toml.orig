@@ -1,11 +1,10 @@
 [package]
 name = "IOT_B3"
 version = "0.1.0"
-licence = "PIAIC"
-
 authors = ["Muhammad Salee <msaleembhatti@hotmail.com>"]
 edition = "2018"
-
+description="a simple function"
+license = "PIAIC"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

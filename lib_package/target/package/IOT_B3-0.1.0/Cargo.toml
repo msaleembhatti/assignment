@@ -15,5 +15,7 @@ edition = "2018"
 name = "IOT_B3"
 version = "0.1.0"
 authors = ["Muhammad Salee <msaleembhatti@hotmail.com>"]
+description = "a simple function"
+license = "PIAIC"
 
 [dependencies]
